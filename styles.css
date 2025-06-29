@@ -8,13 +8,14 @@ body {
 
 /* Style for the reaction box */
 #box {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  margin: 50px auto;
-  display: none;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+        width: 100px;
+      height: 100px;
+      background-color: blue;
+      position: absolute;
+      top: 50px;
+      left: 50px;
+      cursor: pointer;
+
 }
 
 /* Instruction and result text */
